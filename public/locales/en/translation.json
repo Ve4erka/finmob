@@ -1,0 +1,53 @@
+{
+    "button":"Send a request",
+    "sidebar":{
+        "title1":"Main",
+        "title2":"About us",
+        "title3":"Consulting services",
+        "title4":"FinWin Budget"
+    },
+    "firstblock":{
+        "text1":"We save your time and money.",
+        "text2":"We are more reliable and simpler than a",
+        "text3":"financier in a company."
+    },
+    "service-card":{
+        "text1":"Consulting services",
+        "text2":"«FinWin budget»"
+    },
+    "AboutUs":{
+        "title":"About us",
+        "text1":"FinWin.pro together with a team of financiers, we decided to share our experience in analyzing business operations and implementing budgeting principles in small and medium-sized businesses.",
+        "text2":"We have systematized our knowledge and are ready to offer two main products Finwin.pro:",
+        "text3":"1. Audit of the financial condition of the company;", 
+        "text4":"2. Implementation of an automated system of financial accounting and planning.",
+        "text5":"FinWin.pro - your finances are under control!"
+    },
+    "thirdblock":{
+        "title1":"Consulting services",
+        "text1":"Audit of the financial and economic activities of the company",
+        "text2":"Implementation of the budgeting and financial accounting system",
+        "text3":"Training of current staff",
+        "text4":"Financial and legal support"
+    },
+    "fourthblock":{
+        "title1":"Any questions? Write to us and we will contact you as soon as possible",
+        "title2":"Or find us in social networks",
+        "ph1":"Name",
+        "ph2":"Phone",
+        "ph3":"Your question"
+    },
+    "footer":{
+        "title1":"Contact information",
+        "text3":"Tashkent city, Amir Temur Avenue,107Б",
+        "title2":"Main links",
+        "123:":"hui",
+        "text5":"Consulting services",
+        "text6":"FinWin Budget",
+        "text8":"About Us",
+        "title3":"Social network",
+        "title4":"Privacy policy",
+        "title5":"(c) 2023. All rights reserved."
+        
+    }
+}
